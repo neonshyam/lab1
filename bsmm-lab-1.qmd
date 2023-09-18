@@ -2,7 +2,7 @@
 title: "BSMM-lab-1"
 subtitle: "BSMM 8740 Fall 2023"
 author: "Neon Shyam"
-date: "11/09/2023"
+date: "18/09/2023"
 format: html
 editor: visual
 self-contained: true
