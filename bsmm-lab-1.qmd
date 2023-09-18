@@ -72,7 +72,9 @@ mets_ben
 
 ### Exercise 6
 
-...
+```{r}
+dplyr::arrange(mets_ben, LgWin)
+```
 
 ### Exercise 7
 
